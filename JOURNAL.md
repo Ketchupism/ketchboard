@@ -6,6 +6,8 @@ So I wanted to use the most I can out of the Raspberri Pi, and so I added as man
 
 <img width="1866" height="1272" alt="image" src="https://github.com/user-attachments/assets/0c425128-9d10-4d90-9e58-298c0b8d88f5" />
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Post 2 - Change and finishing Schematics
 Date - Wed Jul 29
 Time - ~2 hours
