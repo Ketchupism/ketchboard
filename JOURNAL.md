@@ -12,7 +12,7 @@ Time - ~2 hours
 
 This session I spent time looking for what specfic design I wanted for my keyboard. I decided to get rid of 3 keys on the left of the delete key to save space for the OLED. On the right corner, we the rotary encoder. Below it, there are 3 extra keys. I decided to make the arrow keys stick out by somewhat. I then afterwards set footprints and then went into my PCB editor to see what it looks like. Next post I will probably try to finish everything for the PCB editor. 
 
-![IMG_0342 (1)](https://github.com/user-attachments/assets/a9bd3733-8be6-48af-a93e-3949243763c0)
+![IMG_0342 (1)](https://github.com/user-attachments/assets/a924243c-7e3a-4739-a993-d5eed678d855)
 
 <img width="1960" height="1342" alt="image" src="https://github.com/user-attachments/assets/67e0e315-606d-4e1f-a622-eff4e35de71a" />
 
