@@ -30,6 +30,8 @@ I'm back after work and ec. I came back to realizing that I needed to change som
 example - the caps lock was 1.75u I think
 And anything with 2u I added a stabilizer instead. Then when converting into PCB I realized there was a warning for missing MP for the rotary encoder so I added one. Afterwards, I started to organize the rows together but they were not perfect using the grid editor, so I had to resort to using coordinates. I was struggling to understanding how to perfectly put the switches and diodes together, but I overcame that by just coordinating. You just add the distance of a switch so it horizontally fits and then have the same Y axis. This took me like ~1.5 hours and I only gotten the second row done.
 
+Another thing to know is if your key is > 1u, but < 2u, then you have to assign the footprint. If the key is > 2u, then you have to add the stabilizer in the schematics and footprint.
+
 
 Here's a photo of the MP attached, afterwards there were no warnings
 <img width="1328" height="656" alt="image" src="https://github.com/user-attachments/assets/ff6731b3-c8b8-474a-ae5f-f178fd26b100" />
