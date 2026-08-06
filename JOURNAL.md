@@ -1,6 +1,8 @@
-Post 1 - Starting Schematics. 
-Date - Sat Jul 25. 
-Time - ~2 hours. 
+Post 1 - Starting Schematics
+
+Date - Sat Jul 25
+
+Time - ~2 hours
 
 So I wanted to use the most I can out of the Raspberri Pi, and so I added as many things as I could. A rotary Encoder, An OLED, 14 Columns and 5 Rows of switches. All I did was reverse-engineered this schematics by looking and taking inspiration of how other people did. shoutout daredllama, Tap65, and NMaster23. This was pretty much what I did in those 2 hours and I will probably keep editing until I finalize my schematics and planning of the keyboard
 
@@ -8,9 +10,11 @@ So I wanted to use the most I can out of the Raspberri Pi, and so I added as man
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Post 2 - Change, finishing Schematics, and starting assigning footprints. 
-Date - Wed Jul 29. 
-Time - ~2 hours. 
+Post 2 - Change, finishing Schematics, and starting assigning footprints
+
+Date - Wed Jul 29
+
+Time - ~2 hours
 
 This session I spent time looking for what specfic design I wanted for my keyboard. I decided to get rid of 3 keys on the left of the delete key to save space for the OLED. On the right corner, we the rotary encoder. Below it, there are 3 extra keys. I decided to make the arrow keys stick out by somewhat. I then afterwards set footprints and then went into my PCB editor to see what it looks like. Next post I will probably try to finish everything for the PCB editor. 
 
@@ -22,9 +26,11 @@ This session I spent time looking for what specfic design I wanted for my keyboa
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Post 3 - Change in rotary encoder switch, changing the u for footprint assignments, and finishing with coordinating the second row of switch. 
-Date - Thu Aug 6. 
-Time - 3.5 hours. 
+Post 3 - Change in rotary encoder switch, changing the u for footprint assignments, and finishing with coordinating the second row of switch
+
+Date - Thu Aug 6
+
+Time - 3.5 hours
 
 I'm back after work and ec. I came back to realizing that I needed to change some of the keys of the switches so that they were appropriate size. 
 example - the caps lock was 1.75u I think
