@@ -2,7 +2,7 @@ Post 1 - Starting Schematics
 
 Date - Sat Jul 25
 
-Time - ~2 hours
+Time used - ~2 hours
 
 So I wanted to use the most I can out of the Raspberri Pi, and so I added as many things as I could. A rotary Encoder, An OLED, 14 Columns and 5 Rows of switches. All I did was reverse-engineered this schematics by looking and taking inspiration of how other people did. shoutout daredllama, Tap65, and NMaster23. This was pretty much what I did in those 2 hours and I will probably keep editing until I finalize my schematics and planning of the keyboard
 
@@ -14,7 +14,7 @@ Post 2 - Change, finishing Schematics, and starting assigning footprints
 
 Date - Wed Jul 29
 
-Time - ~2 hours
+Time used - ~2 hours
 
 This session I spent time looking for what specfic design I wanted for my keyboard. I decided to get rid of 3 keys on the left of the delete key to save space for the OLED. On the right corner, we the rotary encoder. Below it, there are 3 extra keys. I decided to make the arrow keys stick out by somewhat. I then afterwards set footprints and then went into my PCB editor to see what it looks like. Next post I will probably try to finish everything for the PCB editor. 
 
@@ -30,11 +30,11 @@ Post 3 - Change in rotary encoder switch, changing the u for footprint assignmen
 
 Date - Thu Aug 6
 
-Time - 3.5 hours
+Time used - 3.5 hours
 
-I'm back after work and ec. I came back to realizing that I needed to change some of the keys of the switches so that they were appropriate size. 
+I'm back for work. I came back to realizing that I needed to change some of the keys of the switches so that they were appropriate size. 
 example - the caps lock was 1.75u I think
-And anything with 2u I added a stabilizer instead. Then when converting into PCB I realized there was a warning for missing MP for the rotary encoder so I added one. Afterwards, I started to organize the rows together but they were not perfect using the grid editor, so I had to resort to using coordinates. I was struggling to understanding how to perfectly put the switches and diodes together, but I overcame that by just coordinating. You just add the distance of a switch so it horizontally fits and then have the same Y axis. This took me like ~1.5 hours and I only gotten the second row done.
+And anything with 2u I added a stabilizer instead. Then when converting into PCB I realized there was a warning for missing MP for the rotary encoder so I added one. Afterwards, I started to organize the rows together but they were not perfect using the grid editor, so I had to resort to using coordinates. I was struggling to understanding how to perfectly put the switches and diodes together, but I overcame that by just coordinating. You can perfectly put switches side by side by having two switches in the same coordinates and adding 19.05, the length of the switch. Using this method took me like ~1.5 hours and I only gotten the second row done.
 
 Another thing to know is if your key is > 1u, but < 2u, then you have to assign the footprint. If the key is > 2u, then you have to add the stabilizer in the schematics and footprint.
 
@@ -56,8 +56,24 @@ Hope to finish the PCB tomorrow as I have to spend more time before i'm away for
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Post 4 - Time wasted with making the PCB, finished the coordinations of the keyboard, and lastly ended with starting to trace copper wires.
 
+Date - Fri Aug 7
 
+Time used - 4 hours
+
+Half way through today when coordinating the diodes, I realized that the traces were unusual. Most switches also had column 0's instead of 0-5 rows. I searched deeper into my schematics and realized when using net highlights, column 0 went through the rows aswell. I had to restart an hour of work back to square one because after fixing, most of the diodes were set randomly since before it did not properly show the differences between the diodes. Thankfully, I ended the day with finishing all of the switches, diodes, and other parts. I even got to start tracing the OLED and switches. I managed to find coordinates with the OLED using AI because I didn't understand how to find the coordinates where the first pin of the OLED were the one being shown. For the diodes, I use the same coordinates of the switches and x = x+8.25mm, y = y+2.25mm. This was used for all the switches and rotary encoders. I saved some time where all the rows / y of the switches and diodes were the same. Hope to completely finish the PCB tomorrow
+
+Here was what happened after fixing the column 0 and tracing problem
+<img width="1754" height="778" alt="image" src="https://github.com/user-attachments/assets/da14b926-a935-4a3e-bf80-f222728dcc8c" />
+
+I literally had to restart the left and right sides of the switches, including all of the diodes which looked like this
+<img width="2048" height="1332" alt="image" src="https://github.com/user-attachments/assets/48514284-8320-4ccc-9795-e5e92338ca58" />
+
+Here's a photo of what the last thing I finished with after restarting back to square one, recoordinating diodes, switches, and then started tracing
+<img width="1644" height="712" alt="image" src="https://github.com/user-attachments/assets/9a6b4127-9057-4dbf-a783-51e63103a515" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
