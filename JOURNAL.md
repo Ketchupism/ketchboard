@@ -75,6 +75,24 @@ Here's a photo of what the last thing I finished with after restarting back to s
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Post 5 - Tracing, debugging errors and warnings, adding 3d models, finalizing the PCB with silkscreen
+
+Date - Fri Aug 9
+
+Time used - 3.5 hours
+
+I've spent the last day just tracing and fixing errors within the PCB. It took a really long time but it looks really clean and organized! Yesterday, I've spent the rest of the day just adding the 3d models for cadding later, adding silkscreen, and other small details to finalize the PCB. The process of making the PCB was alot of hell but eventually came with a very nice PCB. The hardest part of this post was tracing definitely, as I had to organize and push other traces around to fit into a microcontroller. Adding 3d models took a long time because the switches didn't have a default model, so I had to manually add that in aswell. With the 3d model, you can view everything. Diodes, Switches, Rotary Encoder Switch, 0.91 OLED, the Raspberry Pi Pico, and lastly the stablizers. Next post I hope to finish or go halfway through the CAD model. 
+
+Here's a finalized PCB 
+<img width="1724" height="758" alt="image" src="https://github.com/user-attachments/assets/8de24dd4-6602-4a51-90ae-79fae7111163" />
+
+Here's a finalized 3d model of the PCB
+<img width="1856" height="904" alt="image" src="https://github.com/user-attachments/assets/046cbf20-6dd2-4d8f-9d55-2aeca1486f5d" />
+<img width="2006" height="882" alt="image" src="https://github.com/user-attachments/assets/aad09b62-97e1-4e08-8818-4bc54c075b15" />
+<img width="2076" height="902" alt="image" src="https://github.com/user-attachments/assets/9df8c020-3966-4ded-a77c-7f4be25ae26c" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
