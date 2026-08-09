@@ -1,5 +1,8 @@
-Item_Number,Part_Name,Quantity,Manufacturer,Unit_Price_USD
-1,Microcontroller Board,5,Adafruit,19.95
-2,Jumper Wires 40pc,10,Generic,4.50
-3,USB-C Cable 1m,5,Anker,7.99
-4,OLED Display Module,3,Solomon,12.00
+Item Number,Part Name,Quantity,Website,Source,Price
+1,Stacking Header Set for Raspberry Pi Pico,1,PiShop,https://www.pishop.ca/product/stacking-header-set-for-raspberry-pi-pico/,$2.45
+2,Raspberry Pi Pico 2,1,PiShop,https://www.pishop.ca/product/raspberry-pi-pico-2/,$6.95
+3,0.91 Inch White OLED Display Module I2C Interface,1,PiShop,https://www.pishop.ca/product/0-91-inch-white-oled-display-module-i2c-interface/,$5.95
+4,EC11E15244G1 / EC11 Rotary Encoder Switch,1,DigiKey,https://www.digikey.ca/en/products/detail/alps-alpine/EC11E15244G1/21721550, $7.81
+5,Gateron Milky Yellow Pro V2 Pre-lubed 5-Pin 50gf Linear Switches for All MX Mechanical Keyboard Game Keyboard,90,Amazon,https://www.amazon.ca/Pro-Pre-lubed-Switches-Mechanical-Keyboard/dp/B0D17H6QFN/ref=cm_cr_arp_d_product_top?ie=UTF8&th=1,$39.35
+6,Chanzon 1N4148 Small Signal Fast Switching Diodes High-Speed Axial 200mA 100V DO-35,100,Amazon,https://www.amazon.ca/100-Pieces-1N4148-Switching-High-Speed/dp/B079KJ91JZ/ref=sr_1_6?crid=3C8XP4FCW8VEZ&dib=eyJ2IjoiMSJ9.NqZBnqLQlwiLsNiGTqe1EmgDptqGEWdDyfbR-g-0ljUrCzupRW6IkMP8PDNfdPbF7hlOan-8miDilwOpo3TtkfyFqTD8OVtrefkEijpVNXUIeyEp3mWeN5QOwoGTP3zb27P3GyNd67ucEHW0RiOA1_yC71G5REinaTbx05ait795F8PczoZhrZlUH1BaZagxYbW72RVFfA5a7DcAt-C5z2t5pT6klhlUVWBzmLJyFod2juMlrmP8Anf1S5_igWHWInTBGzl2cwRCZj9K6u2dkQdPpPytWXzw01z6Zax6KL4.8G8PitAh7SEvsyC0c_67FSbXRftVpLsL3oip9JY-KaI&dib_tag=se&keywords=1N4148%2BThrough-Hole&qid=1786297125&sprefix=1n4148%2Bthrough-hole%2Caps%2C130&sr=8-6&th=1,$8.99
+7,PCB,1,JLCPBC,https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026081004025223&spm=Jlcpcb.Confirmorder.1001,$63.07
