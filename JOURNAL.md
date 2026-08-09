@@ -2,7 +2,7 @@ Post 1 - Starting Schematics
 
 Date - Sat Jul 25
 
-Time used - ~2 hours
+Time used - 2 hours
 
 So I wanted to use the most I can out of the Raspberri Pi, and so I added as many things as I could. A rotary Encoder, An OLED, 14 Columns and 5 Rows of switches. All I did was reverse-engineered this schematics by looking and taking inspiration of how other people did. shoutout daredllama, Tap65, and NMaster23. This was pretty much what I did in those 2 hours and I will probably keep editing until I finalize my schematics and planning of the keyboard
 
@@ -14,7 +14,7 @@ Post 2 - Change, finishing Schematics, and starting assigning footprints
 
 Date - Wed Jul 29
 
-Time used - ~2 hours
+Time used - 2 hours
 
 This session I spent time looking for what specfic design I wanted for my keyboard. I decided to get rid of 3 keys on the left of the delete key to save space for the OLED. On the right corner, we the rotary encoder. Below it, there are 3 extra keys. I decided to make the arrow keys stick out by somewhat. I then afterwards set footprints and then went into my PCB editor to see what it looks like. Next post I will probably try to finish everything for the PCB editor. 
 
@@ -92,6 +92,21 @@ Here's a finalized 3d model of the PCB
 <img width="2076" height="902" alt="image" src="https://github.com/user-attachments/assets/9df8c020-3966-4ded-a77c-7f4be25ae26c" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Post 6 - Just adding PCB files and adding BOM file
+
+Date - Fri Aug 9
+
+Time used - 2 hours
+
+I've spent 2 hours just researching parts with consideriness with the price and quality. The PCB was extremely annoying for me as any PCB website would be extremely costly because of the size. At the end, I just chose JLCPCB as my regular with a coupon for ~$15. For the other parts, I just chose mainly Amazon, PiShop, and other Canadian shops. At the end of making my BOM, I realized that my keyboard would be extremely expensive, which I couldn't really solve. Afterwards, I went through the tutorial to figure out how to add gerber files to this repo and input it in JLCPCB to estimate my costs.
+
+Here's some photos I took while working 
+<img width="2940" height="1692" alt="image" src="https://github.com/user-attachments/assets/3a4a3f71-1fd7-4f33-8bbc-bcb89361bae6" />
+<img width="2940" height="586" alt="image" src="https://github.com/user-attachments/assets/d0e1e4c1-e6ff-4dc4-bd9f-05003661d3be" />
+<img width="2940" height="824" alt="image" src="https://github.com/user-attachments/assets/40258f02-5fcc-4782-a58e-6126294dc2c0" />
+I'll have to cad the case for the keyboard next.
+
 
 
 
