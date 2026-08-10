@@ -107,6 +107,24 @@ Here's some photos I took while working
 <img width="2940" height="824" alt="image" src="https://github.com/user-attachments/assets/40258f02-5fcc-4782-a58e-6126294dc2c0" />
 I'll have to cad the case for the keyboard next.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Post 7 - Starting with cad and fixing and updating bom list
+
+Date - Mon Aug 10
+
+Time used - 3
+
+I spent the 2 hours just trying to https://kbplate.ai03.com/ to generate me a perfect cutout of the stabilizers, switches, and rotary encoder. Then I spent time on Fusion360 working on a new case, inspired by my previous macropad. I used the plate generator and put a base between the switch. Then I worked on some small aesthetics for the knob case, and OLED. I then grabbed some 3d models for the keycaps which took quite a while to find some decent models. I then realized I needed some more items for the bom.csv: the stablizers, keycaps, and case. The stablizers and keycaps were hard to find because they were both costly. The most stablizers needed to be lubed, but I decided to buy the cheapest and pre-lubed stablizers. The keycaps I found were hard to find because I had a custom keyboard where I needed extra keycaps. Lastly, the 3d print would be free because of Hack Club's #printing-legion. I realized after calculating some estimate of everything, It was extremely costly. I unfortunately probably need to go searching around for cheaper parts.
+
+Here's a photo of https://kbplate.ai03.com/
+<img width="1342" height="758" alt="image" src="https://github.com/user-attachments/assets/03f48fbc-87b7-41e0-84f5-96f7e23c8ef7" />
+Here's a photo of the latest work on Fusion, where I added keycaps and a base. 
+<img width="2494" height="1162" alt="image" src="https://github.com/user-attachments/assets/a2d458ee-1691-4d23-9817-beec638de589" />
+Here's a update on the bom.cvs
+<img width="2940" height="526" alt="image" src="https://github.com/user-attachments/assets/b2dfb299-50f6-4fdf-a904-5966662dcb35" />
+
+
 
 
 
