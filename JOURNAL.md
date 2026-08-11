@@ -124,6 +124,48 @@ Here's a photo of the latest work on Fusion, where I added keycaps and a base.
 Here's a update on the bom.cvs
 <img width="2940" height="526" alt="image" src="https://github.com/user-attachments/assets/b2dfb299-50f6-4fdf-a904-5966662dcb35" />
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Post 8 - Finishing CAD and uploading files + updating fixes
+
+Date - Tue Aug 11
+
+Time used - 8
+
+I've started working again on the cad model, spending time of yesterday and today. Yesterday, I created the sides of the top case, making the depth and sizing it to 1.5mm. I want it to slide perfectly into the bottom case when assembling the keyboard. Next, I made an arch for the top case so that it would be able to fit, since some portion was covering the hole. This goes the same for the bottom case. After, I created the bottom case, making it white, and added the sides. I decided to make the top case fit inside the bottom so I made the case longer. When making this case, I got some inspiration of the shape and colors from my previous macropad. I decided to make a 5 degree tilt for more comfortability. Next, I added the feet grippers of a laptop for grip with the model I used from my macropad. Next, I had empty space on the left of the keyboard because of the PCB, so I decided to make an illustration of cartoon Chiikawa. I used an DFX image then started tracing it. Afterwards, I painted it white and pulled it 2mm. Afterwards, I added some handles for the top case so it doesn't fall and won't match the height of the bottom case. This was made so I didn't need screw mounts or glue. Lastly, I split the keyboard in halves so that it could be possible to print it using a regular 3d printer. It made 5 pieces, the case's top left, right, case's bottom left, right, then lastly the knob top. I then exported everything, including the keyboard model, into Github folder CAD. Along the way, I also took photos and spent time on the README and Post 8.
+
+Here's photos of the USB-C cable hole
+<img width="1648" height="1032" alt="image" src="https://github.com/user-attachments/assets/9ff898cc-4637-4f3f-b1e9-b2c5e8705379" />
+<img width="1590" height="1110" alt="image" src="https://github.com/user-attachments/assets/681f4e84-7f69-4dfe-afec-477739cf5023" />
+
+Here's a photo of the keyboard's feet gripper
+<img width="2192" height="796" alt="image" src="https://github.com/user-attachments/assets/2e85743d-91e3-4b8d-b6f7-4f51bfe933bd" />
+
+Here's photos of the art displayed 
+<img width="2222" height="1098" alt="image" src="https://github.com/user-attachments/assets/04d5ed4d-26dd-4b92-a5cd-e748299461ee" />
+<img width="2100" height="1092" alt="image" src="https://github.com/user-attachments/assets/b78f078d-39b1-41ce-8cb6-37e9d0ec6930" />
+<img width="1830" height="1054" alt="image" src="https://github.com/user-attachments/assets/624d16c8-1a6a-45b4-8d8c-315189421b18" />
+
+Here's a photo of the top plate, adding a hole for both bottom and top for USB-C cable
+<img width="2222" height="1018" alt="image" src="https://github.com/user-attachments/assets/3c3bf7aa-25c4-4733-bc7e-253ca3dc5012" />
+
+Here's photos of the base I started with, 5 degree angle downwards
+<img width="1856" height="734" alt="image" src="https://github.com/user-attachments/assets/2f02d0ac-a0d2-4d88-b882-149043f78f1d" />
+<img width="2174" height="1060" alt="image" src="https://github.com/user-attachments/assets/a77565cc-bb51-4699-bfd9-d0ca91b616dc" />
+
+Here's photos of the finished design 
+<img width="2354" height="854" alt="image" src="https://github.com/user-attachments/assets/47a50718-408b-4ed2-a5e3-21b61521dbb1" />
+<img width="2128" height="804" alt="image" src="https://github.com/user-attachments/assets/c1f2026b-7352-43d0-8f62-eb527323a194" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 
 
 
